@@ -1,0 +1,14 @@
+package com.kaos.video;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class IntelVideoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(IntelVideoApplication.class, args);
+		
+		
+	}
+}
